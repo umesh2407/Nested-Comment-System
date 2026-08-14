@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import axios from "axios";
 import "./App.css";
 
-const API = "https://nested-comment-system-1-mspx.onrender.com";
+const API = "https://nested-comment-system-1-mspx.onrender.com/comments";
 
 function App() {
   const [comments, setComments] = useState([]);
