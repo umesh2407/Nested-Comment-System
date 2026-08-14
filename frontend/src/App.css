@@ -1,0 +1,37 @@
+body {
+  font-family: Arial;
+}
+
+.container {
+  width: 600px;
+  margin: 30px auto;
+}
+
+.form {
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 8px;
+  margin: 5px;
+}
+
+button {
+  padding: 6px 10px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.comment {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+.replies {
+  margin-left: 30px;
+}
+
+.replyForm {
+  margin: 10px 0;
+}
